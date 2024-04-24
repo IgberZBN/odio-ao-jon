@@ -2,6 +2,6 @@
 
 ## TODO
 
-- [ ] Exibir IP
-- [ ] Exibir Players
-- [ ] Exibir Status
+- [x] Exibir IP
+- [x] Exibir Players
+- [x] Exibir Status
